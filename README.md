@@ -4,15 +4,7 @@ Este repositório contém a documentação oficial do projeto **AlertUp**, uma r
 
 A documentação aqui fornecida inclui o SQL do banco de dados, o Diagrama Entidade Relacionamento, entre outros documentos importantes do AlertUp, além das instruções para contribuição.
 
-<<<<<<< HEAD
 <br> ![ODS 11](https://www.acij.com.br/index/wp-content/uploads/2020/10/ods-11-preve-cidades-e-comunidades-sustentaveis-1024x538.jpg) <br>
-=======
-<br> 
-
-![ODS 11](https://www.acij.com.br/index/wp-content/uploads/2020/10/ods-11-preve-cidades-e-comunidades-sustentaveis-1024x538.jpg) 
-
-<br>
->>>>>>> ae222b3124ae0a0c5d2c587ab30a3f137b6f8960
 
 **Equipe do Projeto:**
 
@@ -28,8 +20,4 @@ A documentação aqui fornecida inclui o SQL do banco de dados, o Diagrama Entid
 
 ## Projeto Integrador para Conclusão de Curso da Generation Brasil
 
-<<<<<<< HEAD
 Este projeto faz parte dos requisitos para a conclusão do programa de treinamento da Generation Brasil. Foi uma oportunidade incrível para colocarmos em prática todas as tecnologias aprendidas durante o curso, além das soft skills relacionadas a trabalho em grupo, orientação ao futuro, entre outras.
-=======
-Este projeto faz parte dos requisitos para a conclusão do programa de treinamento da Generation Brasil. Foi uma oportunidade incrível para colocarmos em prática todas as tecnologias aprendidas durante o curso, além das soft skills relacionadas a trabalho em grupo, orientação ao futuro, entre outras.
->>>>>>> ae222b3124ae0a0c5d2c587ab30a3f137b6f8960
